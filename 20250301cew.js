@@ -21,8 +21,7 @@ let go2Socks5s = [
 	'*cloudatacdn.com',
 	'*.loadshare.org',
 ];
-let addresses = ['visa.cn:443','www.visa.com:8443','cis.visa.com:2053','africa.visa.com:2083','www.visa.com.sg:2087','www.visaeurope.at:2096','www.visa.com.mt:8443','qa.visamiddleeast.com','time.is','www.wto.org:8443','chatgpt.com:2087','icook.hk','104.17.0.0#IPv4'];
-let addressesapi = [];
+let addresses = [];
 let addressescsv = [];
 let DLS = 8;
 let remarkIndex = 1;//CSV备注所在列偏移量
